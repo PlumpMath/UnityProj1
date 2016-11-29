@@ -1,0 +1,24 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68e0)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\plokamar\Documents\repos\UnityProj1\SpaceGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.116 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.718596 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 141.
+Total: 2.037735 ms (FindLiveObjects: 0.017964 ms CreateObjectMapping: 0.023097 ms MarkObjects: 0.154840 ms  DeleteObjects: 0.006843 ms)
+
